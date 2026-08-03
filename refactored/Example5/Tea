@@ -11,6 +11,6 @@ public class Tea extends AbstractBeverage {
 
     @Override
     protected void addExtras() {
-        System.out.println("Adding extras to the tea");
+        System.out.println("Adding sugar");
     }
 }

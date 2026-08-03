@@ -11,6 +11,6 @@ public class Coffee extends AbstractBeverage {
 
     @Override
     protected void addExtras() {
-        System.out.println("Adding extras to the coffee");
+        System.out.println("Adding sugar and cream");
     }
 }
